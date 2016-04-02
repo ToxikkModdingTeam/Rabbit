@@ -1,0 +1,10 @@
+[CellDominationLogMessage]
+Dropped="DROPPED THE CELL"
+Grabbed="GRABBED THE CELL"
+KilledCellHolder="KILLED THE CELL CARRIER"
+
+[CellDominationHUDMessage]
+YouHaveCellString="YOU HOLD THE CELL. SCORE!"
+YourTeamHasCellString="YOUR TEAM HOLDS THE CELL. SCORE!"
+EnemyHasCellString="THE ENEMY HAS THE CELL. RECOVER IT!"
+NooneHasCellString="GET THE CELL TO SCORE!"
